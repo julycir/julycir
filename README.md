@@ -1,5 +1,5 @@
 ### Hey 👋 I'm Julieta, and I’ve recently started to learn programming (I'm currently into JavaScript :fearful:)
-⚡ You can help inviting me a tasty cup of black coffee :sparkling_heart:
+⚡ You can help in my journey inviting me a tasty cup of black coffee :sparkling_heart:
 
 <a href='https://cafecito.app/julycir' rel='noopener' target='_blank'><img srcset='https://cdn.cafecito.app/imgs/buttons/button_5.png 1x, https://cdn.cafecito.app/imgs/buttons/button_5_2x.png 2x, https://cdn.cafecito.app/imgs/buttons/button_5_3.75x.png 3.75x' src='https://cdn.cafecito.app/imgs/buttons/button_5.png' alt='Invitame un café en cafecito.app' /></a>
 
