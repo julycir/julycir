@@ -23,4 +23,4 @@
 
 <br />
 
-⭐️ Template from [AjayKhalsa] (https://github.com/AjayKhalsa)
+<h6> ⭐️ Template from [AjayKhalsa] (https://github.com/AjayKhalsa) </h6>
