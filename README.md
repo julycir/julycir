@@ -13,11 +13,11 @@
   <img align="left" alt="Julycir's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <br />
-<img align="right" alt="GIF" src=" https://imagizer.imageshack.com/img924/4777/JE7thJ.gif" />
 
 - Hey 👋 I'm Julieta, and I’ve recently started to learn programming
 - I'm currently into JavaScript :fearful:
 - You can help in my journey inviting me a tasty cup of black coffee :sparkling_heart:
+<br />
 <a href='https://cafecito.app/julycir' rel='noopener' target='_blank'><img srcset='https://cdn.cafecito.app/imgs/buttons/button_5.png 1x, https://cdn.cafecito.app/imgs/buttons/button_5_2x.png 2x, https://cdn.cafecito.app/imgs/buttons/button_5_3.75x.png 3.75x' src='https://cdn.cafecito.app/imgs/buttons/button_5.png' alt='Invitame un café en cafecito.app' /></a>
 <br />
 ⭐️ Template from [AjayKhalsa] (https://github.com/AjayKhalsa)
