@@ -12,7 +12,7 @@
 <a href="https://t.me/julycir">
   <img align="left" alt="Julycir's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-
+<br />
 <br />
 
 - Hey 👋 I'm Julieta, and I’ve recently started to learn programming
